@@ -1,7 +1,5 @@
 on:
-  pull_request:
-    branches:
-    - main
+  issue_comment
     
 jobs:
   my_job:
