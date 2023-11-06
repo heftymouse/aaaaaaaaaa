@@ -8,4 +8,4 @@ jobs:
     steps:
       - name: e
         run: |
-          echo "beans"
+          echo "smth else"
